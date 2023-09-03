@@ -444,7 +444,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-- # Souhrn volných termínů vzdělávacích kurzů *Ovládněte svět online*
++ # Souhrn volných termínů vzdělávacích kurzů *Ovládněte svět online*
 	- *podzim-zima 2023/2024*
 
 | P.č. | Název kurzu                                                                                  | Kód kurzu    | Volné termíny         | 
