@@ -6,7 +6,7 @@
 	- *spoluzakladatel* | *jednatel* | *společník* [CZECHMATE CZ s.r.o.](https://www.linkedin.com/company/czechmatecz)
 	- *Co-founder* |  *CEO* | *Co-owner* at [CZECHMATE CZ s.r.o.](https://www.linkedin.com/company/czechmatecz)
 - - -
-# 	-	Podrobnosti vzdělávacích kurzů [CZECHMATE CZ s.r.o.](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
+# 	*	Podrobnosti vzdělávacích kurzů [CZECHMATE CZ s.r.o.](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 #	1.	Bezpečné chování na internetu: Klíčová dovednost pro digitální věk.
 - - - 
 * *Techniky Operations Security (OPSEC) k ochraně soukromí a minimalizaci rizik. Kurz "Bezpečné chování na internetu: Klíčová dovednost pro digitální věk." připravuje účastníky na bezpečné a uvědomělé chování v digitálním světě. Účastníci získají dovednosti k identifikaci online hrozeb, tvorbě bezpečných hesel, ochraně soukromí na sociálních sítích a prevenci phishingových útoků. Kurz je zaměřený na ochranu osobních údajů, seznámení s digitální stopou a správou online pověsti. Účastníci se také naučí rozpoznávat a řešit kyberšikanu, provádět bezpečné online nákupy a být informováni o aktuálních hrozbách v kybernetické bezpečnosti.*
