@@ -48,7 +48,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-# 2. Digitální dovednosti pro udržitelný rozvoj, kritické myšlení a boj proti dezinformacím.
+#	2. Digitální dovednosti pro udržitelný rozvoj, kritické myšlení a boj proti dezinformacím.
 - - -
 * *Klíčová role rozvoje digitálních dovedností, technik OSINT a OPSEC ve prospěch rozvoje občanské společnosti a podpory demokracie v České republice. Kurz "Digitální dovednosti pro udržitelný rozvoj, kritické myšlení a boj proti dezinformacím" vás zavede do světa digitální gramotnosti. Naučí vás rozpoznávat manipulativní informace, bezpečně se pohybovat online, analyzovat média, efektivně komunikovat a tvůrčím způsobem vytvářet obsah. Získáte dovednosti kritického myšlení, ochrany osobních údajů a schopnost rozpoznat dezinformace. Vaším projektem bude vytvoření digitální kampaně pro udržitelný rozvoj a boj proti dezinformacím.*
 - ### *Sylabus kurzu*
@@ -95,7 +95,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-# 3. Digitální dovednosti ve světě příležitostí a rizik.
+#	3. Digitální dovednosti ve světě příležitostí a rizik.
 - - -
 * *Jak rozvíjet efektivně a bezpečně dovednosti pro digitální věk. Kurz "Digitální dovednosti ve světě příležitostí a rizik" nabízí komplexní pohled na klíčová témata digitálního prostředí. Účastníci budou postupně uváděni do základních principů digitálních dovedností, včetně kyberbezpečnosti, efektivního vyhledávání informací a návrhu digitálního obsahu. Kurz rovněž zahrnuje témata online komunikace, produktivity a programování. Účastníci se seznámí s problematikou digitální stopy, správou digitální identity a online finanční gramotností. Poslední část kurzu představí nadcházející trendy, které formují budoucnost digitálních dovedností.*
 - ### *Sylabus kurzu*
@@ -137,7 +137,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-# 4. Digitální hygiena: Kontrola našeho digitálního odkazu.
+#	4. Digitální hygiena: Kontrola našeho digitálního odkazu.
 - - -
 * *Ochrana soukromí, prevence kybernetických hrozeb, budování digitální reputace. Kurz "Digitální hygiena: Kontrola našeho digitálního odkazu" se zaměřuje na posilování digitální hygieny a kompetencí. Účastníci získají dovednosti kriticky posuzovat informace, chránit své osobní údaje a efektivně komunikovat online. Kurz nabídne nástroje pro správu času v digitálním prostředí, naučí správné využívání sociálních sítí a nabídne techniky pro digitální detox. Cílem je rozvoj odpovědného digitálního občanství a uvědomění si dopadu na udržitelný rozvoj.*
 - ### *Sylabus kurzu*
@@ -183,7 +183,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-# 5. Efektivní vyhledávání v Google: Využití OSINT technik a umělé inteligence.
+#	5. Efektivní vyhledávání v Google: Využití OSINT technik a umělé inteligence.
 - - -
 * *Optimalizace vyhledávání a získávání informací na internetu. Kurz "Efektivní vyhledávání v Google: Využití OSINT technik a umělé inteligence." prohloubí vaše schopnosti vyhledávání v Google. Získáte dovednosti v pokročilém vyhledávání pomocí OSINT technik, kritickém vyhodnocování informací a využití umělé inteligence. Osvojíte si techniky Google Dorking vyhledávání a získáte povědomí o etických aspektech online průzkumu. Praktická cvičení a závěrečný projekt vám umožní uplatnit nové schopnosti na konkrétních úkolech.*
 - ### *Sylabus kurzu*
@@ -221,7 +221,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-# 6. Kybernetické minimum.
+#	6. Kybernetické minimum.
 - - -
 * *Základy informační a kybernetické bezpečnosti dle minimálních standardů NÚKIB. Cíle kurzu "Kybernetické minimum" zahrnují získání základního povědomí o kybernetice, programování a digitální komunikaci. Studenti se naučí chránit své soukromí, osobní údaje a zařízení, efektivně pracovat s daty a kreativně komunikovat online. Dále se budou rozvíjet v oblasti kyberbezpečnosti a porozumění etickým a právním otázkám digitálního prostředí. Taktéž budou mít možnost nahlédnout do budoucích digitálních trendů a jejich vlivu.*
 - ### *Sylabus kurzu*
@@ -259,7 +259,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-# 7. Navrhněte svůj svět plný kreativity: Canva a digitální dovednosti.
+#	7. Navrhněte svůj svět plný kreativity: Canva a digitální dovednosti.
 - - -
 * *Praktické tipy a triky pro používání Canvy při tvorbě profesionálních designů. Kurz "Navrhněte svůj svět plný kreativity: Canva a digitální dovednosti." prohloubí vaše digitální dovednosti při tvorbě grafického designu. Naučí vás tvorbu atraktivního obsahu pro různé internetové platformy a zlepší komunikaci skrze vizuální prvky. Získáte klíčové znalosti pro vytváření poutavého obsahu pro sociální média, webové stránky a další projekty.*
 - ### *Sylabus kurzu*
@@ -302,7 +302,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-# 8. Revoluce ve vzdělávání: Využití umělé inteligence ChatGPT pro rozvoj digitálních dovedností.
+#	8. Revoluce ve vzdělávání: Využití umělé inteligence ChatGPT pro rozvoj digitálních dovedností.
 - - -
 * *Zjistěte, jakými způsoby vám ChatGPT může pomoci při rozvoji vašich dovedností. Pomocí kurzu "Revoluce ve vzdělávání: Využití umělé inteligence ChatGPT pro rozvoj digitálních dovedností." získáte hluboký vhled do AI světa a rozvinete své digitální schopnosti. Naučíte se prakticky využívat AI, zdokonalíte komunikační dovednosti a získáte kritické myšlení pro hodnocení informací. Díky interaktivnímu kurzu budete připraveni na budoucnost.*
 - ### *Sylabus kurzu*
@@ -356,7 +356,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-# 9. Zbraně digitálního věku: OSINT v informační a kybernetické bezpečnosti.
+#	9. Zbraně digitálního věku: OSINT v informační a kybernetické bezpečnosti.
 - - -
 * *Pokročilé OSINT techniky pro bezpečnostní odborníky. Kurz "Zbraně digitálního věku: OSINT v informační a kybernetické bezpečnosti" prohlubuje dovednosti v oblasti OSINT a kybernetické bezpečnosti pro identifikaci aktérů hrozeb, analýzu dat a reakci na incidenty (DFIR). Soustředí se na praktické scénáře, etiku a spolupráci.*
 - ### *Sylabus kurzu*
@@ -405,7 +405,7 @@
 - ### Cena - *9 600 Kč*
 - ### Cena s příspěvkem od Úřadu práce ČR - [*1 728 Kč*](https://www.uradprace.cz/web/cz/vyhledani-rekvalifikacniho-kurzu?typKurzu=1.4)
 - - -
-# 10. Získávejte informace jako profesionál: Představení Open Source Intelligence (OSINT).
+#	10. Získávejte informace jako profesionál: Představení Open Source Intelligence (OSINT).
 * *Naučte se využívat OSINT techniky a nástroje pro efektivní analýzu a rozhodování. Kurz "Získávejte informace jako profesionál: Představení OSINT" vás provede klíčovými principy získávání, analýzy a etického využití veřejných dat. Získáte dovednosti pro úspěšné hledání online informací, monitorování trendů, rozpoznání důvěryhodných zdrojů, analýzu obsahu a právní zásady. Navíc se seznámíte s aplikacemi v kybernetické bezpečnosti, firemní analýze a kriminalistice. Praktická cvičení posílí vaše schopnosti pro efektivní OSINT.*
 - ### *Sylabus kurzu*
 1. Úvod do OSINT:
