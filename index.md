@@ -461,7 +461,6 @@
 | 9.   | Zbraně digitálního věku: OSINT v informační a kybernetické bezpečnosti.                      | 142023014464 | 19.02.2024 - 28.02.2024 |
 | 10.  | Získávejte informace jako profesionál: Představení Open Source Intelligence (OSINT).         | 142023014463 | 04.03.2024 - 13.03.2024 |
 - - -
-
 | P.č. | Název kurzu                                                                                  | Kód kurzu    | Volné termíny           |
 | ---- | -------------------------------------------------------------------------------------------- | ------------ | ----------------------- |
 | 1.   | Bezpečné chování na internetu: Klíčová dovednost pro digitální věk.                          | 142023014381 | 19.02.2024 - 28.02.2024 |
