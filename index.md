@@ -14,27 +14,27 @@
 	1. Úvod do digitálního světa a rizika online:
 		- *seznámení s digitálními dovednostmi*
 		- *identifikace online hrozeb*
-	2. Základy silného hesla a ochrany účtů:
+	1. Základy silného hesla a ochrany účtů:
 		- *vytváření bezpečných hesel*
 		- *ochrana osobních účtů*
-	3. Rozpoznání phishingových útoků:
+	1. Rozpoznání phishingových útoků:
 		- *identifikace podvodných emailů*
 		- *prevence proti podvodným emailům*
-	4. Ochrana soukromí na sociálních sítích:
+	1. Ochrana soukromí na sociálních sítích:
 		- *zabezpečení osobních dat na sociálních médiích*
-	5. Bezpečné stahování souborů a příloh:
+	1. Bezpečné stahování souborů a příloh:
 		- *zajištění bezpečného stahování souborů*
 		- *ochrana před malware*
-	6. Ochrana osobních údajů online:
+	1. Ochrana osobních údajů online:
 		- *strategie pro ochranu citlivých informací online*
-	7. Digitální stopa a její správa:
+	1. Digitální stopa a její správa:
 		- *vědomí a správa osobní digitální stopy*
-	8. Základy kybernetického bullyingu a prevence:
+	1. Základy kybernetického bullyingu a prevence:
 		- *rozpoznání a prevence kyberšikany*
-	9. Bezpečné nakupování a bankovnictví online:
+	1. Bezpečné nakupování a bankovnictví online:
 		- *zabezpečené metody online nákupů*
 		- *zabezpečené metody finančních transakcí*
-	10. Aktuální trendy v kybernetické bezpečnosti:
+	1. Aktuální trendy v kybernetické bezpečnosti:
 		- *seznámení s nejnovějšími hrozbami a bezpečnostními výzvami*
 - ### *Možnosti pracovního uplatnění*
 	- Absolventi kurzu získají znalosti pro práci jako: 
