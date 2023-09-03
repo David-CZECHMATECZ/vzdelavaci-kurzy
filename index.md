@@ -17,25 +17,25 @@
 1. 	Základy silného hesla a ochrany účtů:
 	- *vytváření bezpečných hesel*
 	- *ochrana osobních účtů*
-1. 		Rozpoznání phishingových útoků:
-		- *identifikace podvodných emailů*
-		- *prevence proti podvodným emailům*
-1. 		Ochrana soukromí na sociálních sítích:
-		- *zabezpečení osobních dat na sociálních médiích*
-1. 		Bezpečné stahování souborů a příloh:
-		- *zajištění bezpečného stahování souborů*
-		- *ochrana před malware*
-1. 		Ochrana osobních údajů online:
-		- *strategie pro ochranu citlivých informací online*
-1. 		Digitální stopa a její správa:
-		- *vědomí a správa osobní digitální stopy*
-1. 		Základy kybernetického bullyingu a prevence:
-		- *rozpoznání a prevence kyberšikany*
-1. 		Bezpečné nakupování a bankovnictví online:
-		- *zabezpečené metody online nákupů*
-		- *zabezpečené metody finančních transakcí*
-1. 		Aktuální trendy v kybernetické bezpečnosti:
-		- *seznámení s nejnovějšími hrozbami a bezpečnostními výzvami*
+1. 	Rozpoznání phishingových útoků:
+	- *identifikace podvodných emailů*
+	- *prevence proti podvodným emailům*
+1. 	Ochrana soukromí na sociálních sítích:
+	- *zabezpečení osobních dat na sociálních médiích*
+1. 	Bezpečné stahování souborů a příloh:
+	- *zajištění bezpečného stahování souborů*
+	- *ochrana před malware*
+1. 	Ochrana osobních údajů online:
+	- *strategie pro ochranu citlivých informací online*
+1. 	Digitální stopa a její správa:
+	- *vědomí a správa osobní digitální stopy*
+1. 	Základy kybernetického bullyingu a prevence:
+	- *rozpoznání a prevence kyberšikany*
+1. 	Bezpečné nakupování a bankovnictví online:
+	- *zabezpečené metody online nákupů*
+	- *zabezpečené metody finančních transakcí*
+1. 	Aktuální trendy v kybernetické bezpečnosti:
+	- *seznámení s nejnovějšími hrozbami a bezpečnostními výzvami*
 - ### *Možnosti pracovního uplatnění*
 	- Absolventi kurzu získají znalosti pro práci jako: 
 		- *kybernetičtí poradci*
@@ -52,32 +52,32 @@
 - - -
 * *Klíčová role rozvoje digitálních dovedností, technik OSINT a OPSEC ve prospěch rozvoje občanské společnosti a podpory demokracie v České republice. Kurz "Digitální dovednosti pro udržitelný rozvoj, kritické myšlení a boj proti dezinformacím" vás zavede do světa digitální gramotnosti. Naučí vás rozpoznávat manipulativní informace, bezpečně se pohybovat online, analyzovat média, efektivně komunikovat a tvůrčím způsobem vytvářet obsah. Získáte dovednosti kritického myšlení, ochrany osobních údajů a schopnost rozpoznat dezinformace. Vaším projektem bude vytvoření digitální kampaně pro udržitelný rozvoj a boj proti dezinformacím.*
 - ### *Sylabus kurzu*
-	1. Úvod do kurzu a význam digitálních dovedností: 
-		- *důležitost digitálních dovedností v dnešním světě*
-	2. Kritické myšlení a vyhodnocování informací: 
-		- *rozvoj schopnosti rozpoznat manipulativní informace*
-	3. Základy digitální gramotnosti a kyberbezpečnosti: 
-		- *bezpečné chování online*
-		- *ochrana dat a soukromí*
-	4. Vyhledávání a ověřování informací: 
-		- *dovednosti hledání informací na internetu*
-		- *dovednosti ověřování informací na internetu*
-	5. Sociální média a identifikace dezinformací: 
-		- *rozpoznávání a zamezení šíření dezinformací na sociálních sítích*
-	6. Efektivní online komunikace a diskuzní dovednosti: 
-		- *konstruktivní online komunikace*
-		- *účast v diskuzích*
-	7. Tvorba poutavého digitálního obsahu: 
-		- *vytváření atraktivního a informativního digitálního obsahu*
-	8. Rozpoznávání manipulativního obsahu v médiích: 
-		- *analýza médií*
-		- *rozpoznání manipulativních prvků*
-	9. Etika online chování a autorská práva: 
-		- *diskuze o etice online*
-		- *dodržování autorských práv*
-	10. Projekt: Digitální kampaně pro udržitelný rozvoj: 
-		- *vytvoření kampaně podporující udržitelný rozvoj*
-		- *vytvoření kampaně podporující boj s dezinformacemi.*
+1. Úvod do kurzu a význam digitálních dovedností: 
+	- *důležitost digitálních dovedností v dnešním světě*
+2. Kritické myšlení a vyhodnocování informací: 
+	- *rozvoj schopnosti rozpoznat manipulativní informace*
+3. Základy digitální gramotnosti a kyberbezpečnosti: 
+	- *bezpečné chování online*
+	- *ochrana dat a soukromí*
+4. Vyhledávání a ověřování informací: 
+	- *dovednosti hledání informací na internetu*
+	- *dovednosti ověřování informací na internetu*
+5. Sociální média a identifikace dezinformací: 
+	- *rozpoznávání a zamezení šíření dezinformací na sociálních sítích*
+6. Efektivní online komunikace a diskuzní dovednosti: 
+	- *konstruktivní online komunikace*
+	- *účast v diskuzích*
+7. Tvorba poutavého digitálního obsahu: 
+	- *vytváření atraktivního a informativního digitálního obsahu*
+8. Rozpoznávání manipulativního obsahu v médiích: 
+	- *analýza médií*
+	- *rozpoznání manipulativních prvků*
+9. Etika online chování a autorská práva: 
+	- *diskuze o etice online*
+	- *dodržování autorských práv*
+10. Projekt: Digitální kampaně pro udržitelný rozvoj: 
+	- *vytvoření kampaně podporující udržitelný rozvoj*
+	- *vytvoření kampaně podporující boj s dezinformacemi.*
 - ### *Možnosti pracovního uplatnění*
 	- Možnosti pracovního uplatnění jsou ve sféře:
 		- *kyberbezpečnost*
