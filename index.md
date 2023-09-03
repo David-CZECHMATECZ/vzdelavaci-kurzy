@@ -34,7 +34,7 @@
 9. 	Bezpečné nakupování a bankovnictví online:
 	- *zabezpečené metody online nákupů*
 	- *zabezpečené metody finančních transakcí*
-10. 	Aktuální trendy v kybernetické bezpečnosti:
+10. Aktuální trendy v kybernetické bezpečnosti:
 	- *seznámení s nejnovějšími hrozbami a bezpečnostními výzvami*
 - ### *Možnosti pracovního uplatnění*
 	- Absolventi kurzu získají znalosti pro práci jako: 
