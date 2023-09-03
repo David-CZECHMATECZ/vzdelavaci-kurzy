@@ -448,28 +448,28 @@
 - # Souhrn volných termínů vzdělávacích kurzů *Ovládněte svět online*
 	- *podzim-zima 2023/2024*
 
-| P.č. | Název kurzu                                                                                  | Kód kurzu    | Volné termíny          | 
-| ---- | -------------------------------------------------------------------------------------------- | ------------ | -----------------------|
-| 1.   | Bezpečné chování na internetu: Klíčová dovednost pro digitální věk.                          | 142023014472 | 16.10.2023 -25.10.2023 |
-| 2.   | Digitální dovednosti pro udržitelný rozvoj, kritické myšlení a boj proti dezinformacím.      | 142023014471 | 30.10.2023 -08.11.2023 |
-| 3.   | Digitální dovednosti ve světě příležitostí a rizik.                                          | 142023014470 | 13.11.2023 -22.11.2023 |
-| 4.   | Digitální hygiena: Kontrola našeho digitálního odkazu.                                       | 142023014469 | 27.11.2023 -06.12.2023 |
-| 5.   | Efektivní vyhledávání v Google: Využití OSINT technik a umělé inteligence.                   | 142023014468 | 11.12.2023 -20.12.2023 |
-| 6    | Kybernetické minimum.                                                                        | 142023014467 | 08.01.2024 -17.01.2024 |
-| 7.   | Navrhněte svůj svět plný kreativity: Canva a digitální dovednosti.                           | 142023014466 | 22.01.2024 -31.01.2024 |
-| 8.   | Revoluce ve vzdělávání: Využití umělé inteligence ChatGPT pro rozvoj digitálních dovedností. | 142023014465 | 05.02.2024 -14.02.2024 |
-| 9.   | Zbraně digitálního věku: OSINT v informační a kybernetické bezpečnosti.                      | 142023014464 | 19.02.2024 -28.02.2024 |
-| 10.  | Získávejte informace jako profesionál: Představení Open Source Intelligence (OSINT).         | 142023014463 | 04.03.2024 -13.03.2024 |
+| P.č. | Název kurzu                                                                                  | Kód kurzu    | Volné termíny         | 
+| ---- | -------------------------------------------------------------------------------------------- | ------------ | ----------------------|
+| 1.   | Bezpečné chování na internetu: Klíčová dovednost pro digitální věk.                          | 142023014472 | 16.10.2023-25.10.2023 |
+| 2.   | Digitální dovednosti pro udržitelný rozvoj, kritické myšlení a boj proti dezinformacím.      | 142023014471 | 30.10.2023-08.11.2023 |
+| 3.   | Digitální dovednosti ve světě příležitostí a rizik.                                          | 142023014470 | 13.11.2023-22.11.2023 |
+| 4.   | Digitální hygiena: Kontrola našeho digitálního odkazu.                                       | 142023014469 | 27.11.2023-06.12.2023 |
+| 5.   | Efektivní vyhledávání v Google: Využití OSINT technik a umělé inteligence.                   | 142023014468 | 11.12.2023-20.12.2023 |
+| 6    | Kybernetické minimum.                                                                        | 142023014467 | 08.01.2024-17.01.2024 |
+| 7.   | Navrhněte svůj svět plný kreativity: Canva a digitální dovednosti.                           | 142023014466 | 22.01.2024-31.01.2024 |
+| 8.   | Revoluce ve vzdělávání: Využití umělé inteligence ChatGPT pro rozvoj digitálních dovedností. | 142023014465 | 05.02.2024-14.02.2024 |
+| 9.   | Zbraně digitálního věku: OSINT v informační a kybernetické bezpečnosti.                      | 142023014464 | 19.02.2024-28.02.2024 |
+| 10.  | Získávejte informace jako profesionál: Představení Open Source Intelligence (OSINT).         | 142023014463 | 04.03.2024-13.03.2024 |
 - - -
-| P.č. | Název kurzu                                                                                  | Kód kurzu    | Volné termíny          |
-| ---- | -------------------------------------------------------------------------------------------- | ------------ | -----------------------|
-| 1.   | Bezpečné chování na internetu: Klíčová dovednost pro digitální věk.                          | 142023014381 | 19.02.2024 -28.02.2024 |
-| 2.   | Digitální dovednosti pro udržitelný rozvoj, kritické myšlení a boj proti dezinformacím.      | 142023014382 | 05.02.2024 -14.02.2024 |
-| 3.   | Digitální dovednosti ve světě příležitostí a rizik.                                          | 142023014383 | 22.01.2024 -31.01.2024 |
-| 4.   | Digitální hygiena: Kontrola našeho digitálního odkazu.                                       | 142023014384 | 08.01.2024 -17.01.2024 |
-| 5.   | Efektivní vyhledávání v Google: Využití OSINT technik a umělé inteligence.                   | 142023014385 | 11.12.2023 -20.12.2023 |
-| 6    | Kybernetické minimum.                                                                        | 142023014386 | 27.11.2023 -05.12.2023 |
-| 7.   | Navrhněte svůj svět plný kreativity: Canva a digitální dovednosti.                           | 142023014387 | 13.11.2023 -22.11.2023 |
-| 8.   | Revoluce ve vzdělávání: Využití umělé inteligence ChatGPT pro rozvoj digitálních dovedností. | 142023014388 | 30.10.2023 -08.11.2023 |
-| 9.   | Zbraně digitálního věku: OSINT v informační a kybernetické bezpečnosti.                      | 142023014389 | 04.03.2024 -13.03.2024 |
-| 10.  | Získávejte informace jako profesionál: Představení Open Source Intelligence (OSINT).         | 142023014390 | 16.10.2023 -25.10.2023 |
+| P.č. | Název kurzu                                                                                  | Kód kurzu    | Volné termíny         |
+| ---- | -------------------------------------------------------------------------------------------- | ------------ | ----------------------|
+| 1.   | Bezpečné chování na internetu: Klíčová dovednost pro digitální věk.                          | 142023014381 | 19.02.2024-28.02.2024 |
+| 2.   | Digitální dovednosti pro udržitelný rozvoj, kritické myšlení a boj proti dezinformacím.      | 142023014382 | 05.02.2024-14.02.2024 |
+| 3.   | Digitální dovednosti ve světě příležitostí a rizik.                                          | 142023014383 | 22.01.2024-31.01.2024 |
+| 4.   | Digitální hygiena: Kontrola našeho digitálního odkazu.                                       | 142023014384 | 08.01.2024-17.01.2024 |
+| 5.   | Efektivní vyhledávání v Google: Využití OSINT technik a umělé inteligence.                   | 142023014385 | 11.12.2023-20.12.2023 |
+| 6    | Kybernetické minimum.                                                                        | 142023014386 | 27.11.2023-05.12.2023 |
+| 7.   | Navrhněte svůj svět plný kreativity: Canva a digitální dovednosti.                           | 142023014387 | 13.11.2023-22.11.2023 |
+| 8.   | Revoluce ve vzdělávání: Využití umělé inteligence ChatGPT pro rozvoj digitálních dovedností. | 142023014388 | 30.10.2023-08.11.2023 |
+| 9.   | Zbraně digitálního věku: OSINT v informační a kybernetické bezpečnosti.                      | 142023014389 | 04.03.2024-13.03.2024 |
+| 10.  | Získávejte informace jako profesionál: Představení Open Source Intelligence (OSINT).         | 142023014390 | 16.10.2023-25.10.2023 |
