@@ -11,30 +11,30 @@
 - - - 
 * *Techniky Operations Security (OPSEC) k ochraně soukromí a minimalizaci rizik. Kurz "Bezpečné chování na internetu: Klíčová dovednost pro digitální věk." připravuje účastníky na bezpečné a uvědomělé chování v digitálním světě. Účastníci získají dovednosti k identifikaci online hrozeb, tvorbě bezpečných hesel, ochraně soukromí na sociálních sítích a prevenci phishingových útoků. Kurz je zaměřený na ochranu osobních údajů, seznámení s digitální stopou a správou online pověsti. Účastníci se také naučí rozpoznávat a řešit kyberšikanu, provádět bezpečné online nákupy a být informováni o aktuálních hrozbách v kybernetické bezpečnosti.*
 - ### *Sylabus kurzu*
-	1.Úvod do digitálního světa a rizika online:
+	1. Úvod do digitálního světa a rizika online:
 		- *seznámení s digitálními dovednostmi*
 		- *identifikace online hrozeb*
-	2.Základy silného hesla a ochrany účtů:
+	2. Základy silného hesla a ochrany účtů:
 		- *vytváření bezpečných hesel*
 		- *ochrana osobních účtů*
-	3.Rozpoznání phishingových útoků:
+	3. Rozpoznání phishingových útoků:
 		- *identifikace podvodných emailů*
 		- *prevence proti podvodným emailům*
-	4.Ochrana soukromí na sociálních sítích:
+	4. Ochrana soukromí na sociálních sítích:
 		- *zabezpečení osobních dat na sociálních médiích*
-	5.Bezpečné stahování souborů a příloh:
+	5. Bezpečné stahování souborů a příloh:
 		- *zajištění bezpečného stahování souborů*
 		- *ochrana před malware*
-	6.Ochrana osobních údajů online:
+	6. Ochrana osobních údajů online:
 		- *strategie pro ochranu citlivých informací online*
-	7.Digitální stopa a její správa:
+	7. Digitální stopa a její správa:
 		- *vědomí a správa osobní digitální stopy*
-	8.Základy kybernetického bullyingu a prevence:
+	8. Základy kybernetického bullyingu a prevence:
 		- *rozpoznání a prevence kyberšikany*
-	9.Bezpečné nakupování a bankovnictví online:
+	9. Bezpečné nakupování a bankovnictví online:
 		- *zabezpečené metody online nákupů*
 		- *zabezpečené metody finančních transakcí*
-	10.Aktuální trendy v kybernetické bezpečnosti:
+	10. Aktuální trendy v kybernetické bezpečnosti:
 		- *seznámení s nejnovějšími hrozbami a bezpečnostními výzvami*
 - ### *Možnosti pracovního uplatnění*
 	- Absolventi kurzu získají znalosti pro práci jako: 
@@ -52,19 +52,19 @@
 - - -
 * *Klíčová role rozvoje digitálních dovedností, technik OSINT a OPSEC ve prospěch rozvoje občanské společnosti a podpory demokracie v České republice. Kurz "Digitální dovednosti pro udržitelný rozvoj, kritické myšlení a boj proti dezinformacím" vás zavede do světa digitální gramotnosti. Naučí vás rozpoznávat manipulativní informace, bezpečně se pohybovat online, analyzovat média, efektivně komunikovat a tvůrčím způsobem vytvářet obsah. Získáte dovednosti kritického myšlení, ochrany osobních údajů a schopnost rozpoznat dezinformace. Vaším projektem bude vytvoření digitální kampaně pro udržitelný rozvoj a boj proti dezinformacím.*
 - ### *Sylabus kurzu*
-	1.Úvod do kurzu a význam digitálních dovedností: 
+	1. Úvod do kurzu a význam digitálních dovedností: 
 		- *důležitost digitálních dovedností v dnešním světě*
-	2.Kritické myšlení a vyhodnocování informací: 
+	2. Kritické myšlení a vyhodnocování informací: 
 		- *rozvoj schopnosti rozpoznat manipulativní informace*
-	3.Základy digitální gramotnosti a kyberbezpečnosti: 
+	3. Základy digitální gramotnosti a kyberbezpečnosti: 
 		- *bezpečné chování online*
 		- *ochrana dat a soukromí*
-	4.Vyhledávání a ověřování informací: 
+	4. Vyhledávání a ověřování informací: 
 		- *dovednosti hledání informací na internetu*
 		- *dovednosti ověřování informací na internetu*
-	5.Sociální média a identifikace dezinformací: 
+	5. Sociální média a identifikace dezinformací: 
 		- *rozpoznávání a zamezení šíření dezinformací na sociálních sítích*
-	6.Efektivní online komunikace a diskuzní dovednosti: 
+	6. Efektivní online komunikace a diskuzní dovednosti: 
 		- *konstruktivní online komunikace*
 		- *účast v diskuzích*
 	7. Tvorba poutavého digitálního obsahu: 
